@@ -1,0 +1,20 @@
+Best 20 coffee models that have at least 8 points for "Aroma".
+
+Best 10 coffee models that have at least 1 "Quaker".
+
+Worst 20 coffee that have at least 8.20 points for "Sweetness".
+
+Best 15 coffee models that are "Arabica" and have at least 9 points for "Clean Cup".
+
+Coffee models that are "green" and have at least 2 "Category One Defects".
+
+"Robusta" coffee models with "Flavor" points between 8 and 9.
+
+Worst 10 coffee models that have at least 7 points for "Body" and 8 points for "Balance".
+
+Coffee models that are from "Ethiopia" and expire after 2012.
+
+Coffee models which owner is "afca" and are from "Malawi" that have at most 0.12 points for "Moisture" and at least 7 points for "Aftertaste"
+
+Best 20 "Arabica" coffee models that have at least 7.50 points for "Flavor", at most 9 points for "Aroma" and more than 8 points for "Acidity".
+
