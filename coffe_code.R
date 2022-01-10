@@ -91,15 +91,3 @@ write.csv(Coffee2Numeric2Value, "./tables/coffee2numeric2value.csv")
 write.csv(Coffee2String2Value, "./tables/coffee2string2value.csv")
 
 
-# i=1
-# for(i in c(1:1102)){
-#   if(df[i, 37] != "ft" & df[i, 37] != "m"){
-#     print(i)
-#   }
-#   i=i+1
-# }
-# df <- df[-c(221, 629, 651, 920, 962, 1084), ]
-
-
-
-
